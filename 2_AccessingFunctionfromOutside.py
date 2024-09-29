@@ -11,5 +11,11 @@ Calculate(35)
 
 
 # immutable and Mutable data type.
-# Immutable data type => list, set , dictionary, ByteArray, Array.
+# Immutable data type => list , set , dictionary, ByteArray, Array.
 # Mutable Data type => Integers , Floating-point numbers, String, Tuples,Boolean ,Frozen sets
+#  Ctlr + / = for instance comment.
+# In Python has everythings as an object type / data type.
+
+# There are 5 to 6 data types;
+# Numbers, String, List[ which has these Square brackets ], tuples( which has these Parenthesis)
+#  And Dictionary{ which has thses Curly brackets }, sets, Files
